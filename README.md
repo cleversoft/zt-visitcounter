@@ -11,7 +11,8 @@
 * Visitor IP.
 * Much more features will be added in the feature toolbar.
 * Show/Hide data of each module easily.
-* Customize the width using using a Module configurable.
+* Customize the width using a Module configurable.
+* Retina Ready (using font icons)
 * Joomla! Cache Support.
 
 This is very simple and easy to use module, just need to install and publish the module in any position you want to show!
